@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning Python, C, Bash . 
 - 📫 How to reach me : sorbierdev@proton.me
 - Languages : 🇫🇷 🇬🇧 🇪🇸
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />]
+[<img align="left" witdh="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" style="padding-right:11px;" />]
